@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\DZ_Sem5.1\PrimerSem5zd36\bin\Debug\net6.0\PrimerSem5zd36.exe
+C:\Users\ASUS\Desktop\DZ_Sem5.1\PrimerSem5zd36\bin\Debug\net6.0\PrimerSem5zd36.deps.json
+C:\Users\ASUS\Desktop\DZ_Sem5.1\PrimerSem5zd36\bin\Debug\net6.0\PrimerSem5zd36.runtimeconfig.json
+C:\Users\ASUS\Desktop\DZ_Sem5.1\PrimerSem5zd36\bin\Debug\net6.0\PrimerSem5zd36.dll
+C:\Users\ASUS\Desktop\DZ_Sem5.1\PrimerSem5zd36\bin\Debug\net6.0\PrimerSem5zd36.pdb
+C:\Users\ASUS\Desktop\DZ_Sem5.1\PrimerSem5zd36\obj\Debug\net6.0\PrimerSem5zd36.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\DZ_Sem5.1\PrimerSem5zd36\obj\Debug\net6.0\PrimerSem5zd36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\DZ_Sem5.1\PrimerSem5zd36\obj\Debug\net6.0\PrimerSem5zd36.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\DZ_Sem5.1\PrimerSem5zd36\obj\Debug\net6.0\PrimerSem5zd36.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\DZ_Sem5.1\PrimerSem5zd36\obj\Debug\net6.0\PrimerSem5zd36.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\DZ_Sem5.1\PrimerSem5zd36\obj\Debug\net6.0\PrimerSem5zd36.dll
+C:\Users\ASUS\Desktop\DZ_Sem5.1\PrimerSem5zd36\obj\Debug\net6.0\refint\PrimerSem5zd36.dll
+C:\Users\ASUS\Desktop\DZ_Sem5.1\PrimerSem5zd36\obj\Debug\net6.0\PrimerSem5zd36.pdb
+C:\Users\ASUS\Desktop\DZ_Sem5.1\PrimerSem5zd36\obj\Debug\net6.0\PrimerSem5zd36.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\DZ_Sem5.1\PrimerSem5zd36\obj\Debug\net6.0\ref\PrimerSem5zd36.dll
